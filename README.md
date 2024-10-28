@@ -14,5 +14,5 @@ This is a simple redesign for my server’s NPWD, inspired by iPhone. The redesi
 
 ## Preview
 
-
-![Preview of the NPWD redesign](https://github.com/user-attachments/assets/b41ed4f0-3c4e-4386-85d0-de5bd9ac91bd)
+![Screenshot](https://github.com/user-attachments/assets/9fa9bbce-da02-4766-aae7-1054623ae54b)
+0-3c4e-4386-85d0-de5bd9ac91bd)
