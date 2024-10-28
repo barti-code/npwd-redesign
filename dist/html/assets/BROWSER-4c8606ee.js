@@ -1,0 +1,1 @@
+import{j as a}from"./jsx-runtime-5fe4d0a7.js";import{L as l,__tla as r}from"./Language-f46c84f2.js";let t,s=Promise.all([(()=>{try{return r}catch{}})()]).then(async()=>{t=()=>a.jsx(l,{fontSize:"small"})});export{s as __tla,t as default};
